@@ -198,5 +198,8 @@ Escolha uma opção: 2
 --- Livros Emprestados ---
 "Dom Casmurro" - Cliente: João Silva | Data: 30/09/2026
 
+## Link do Kanban
+
+https://github.com/users/ranyzZ/projects/4
 
 Desenvolvido por Rani Cavalcante Silva
